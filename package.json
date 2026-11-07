@@ -1,7 +1,7 @@
 {
   "name": "project-management-tool",
   "version": "1.0.0",
-  "description": "Collaborative project management tool with projects, task boards, comments and notifications.",
+  "description": "A collaborative project management tool with projects, task boards, comments and notifications.",
   "main": "backend/server.js",
   "scripts": {
     "start": "node backend/server.js",
